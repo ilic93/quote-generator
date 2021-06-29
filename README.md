@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://ilic93-quote-generator.netlify.app/Darrell_Hammond">
+    <a href="https://ilic93-quote-generator.netlify.app">
       Demo
     </a>
     <span> | </span>
